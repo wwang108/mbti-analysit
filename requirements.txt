@@ -1,0 +1,8 @@
+langchain
+tiktoken
+streamlit
+seaborn 
+matplotlib
+langchainhub
+chromadb
+openai
